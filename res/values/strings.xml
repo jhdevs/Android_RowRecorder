@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, RowRecorderActivity!</string>
+    <string name="app_name">RowRecorder</string>
+    <string name="add">Add</string>
+    <string name="addstr">Add item...</string>
+
+</resources>
